@@ -1,0 +1,14 @@
+C:\Users\Islam Mohamed\Documents\C# Projects\GoodNumber\GoodNumber\bin\Debug\net8.0\GoodNumber.exe
+C:\Users\Islam Mohamed\Documents\C# Projects\GoodNumber\GoodNumber\bin\Debug\net8.0\GoodNumber.deps.json
+C:\Users\Islam Mohamed\Documents\C# Projects\GoodNumber\GoodNumber\bin\Debug\net8.0\GoodNumber.runtimeconfig.json
+C:\Users\Islam Mohamed\Documents\C# Projects\GoodNumber\GoodNumber\bin\Debug\net8.0\GoodNumber.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\GoodNumber\GoodNumber\bin\Debug\net8.0\GoodNumber.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\GoodNumber\GoodNumber\obj\Debug\net8.0\GoodNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam Mohamed\Documents\C# Projects\GoodNumber\GoodNumber\obj\Debug\net8.0\GoodNumber.AssemblyInfoInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\GoodNumber\GoodNumber\obj\Debug\net8.0\GoodNumber.AssemblyInfo.cs
+C:\Users\Islam Mohamed\Documents\C# Projects\GoodNumber\GoodNumber\obj\Debug\net8.0\GoodNumber.csproj.CoreCompileInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\GoodNumber\GoodNumber\obj\Debug\net8.0\GoodNumber.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\GoodNumber\GoodNumber\obj\Debug\net8.0\refint\GoodNumber.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\GoodNumber\GoodNumber\obj\Debug\net8.0\GoodNumber.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\GoodNumber\GoodNumber\obj\Debug\net8.0\GoodNumber.genruntimeconfig.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\GoodNumber\GoodNumber\obj\Debug\net8.0\ref\GoodNumber.dll
